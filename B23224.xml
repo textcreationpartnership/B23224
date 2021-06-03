@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the House of Commons assembled in Parliament. The humble petition and remonstrance of Captain Francis Freeman of Marleborough, in the county of Wiltes, in the behalfe of himselfe and his poore distressed family.</title>
+            <author>Freeman, Francis.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23224</idno><idno type="EEBO-CITATION">99888300</idno>
+  <idno type="VID">201898</idno>
+  <idno type="EEBO-PROQUEST">2240900081</idno>
+  
+            <idno type="STC">Wing F2130</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[8]</idno>
+            <idno type="STC">ESTC R229293</idno>
+            <idno type="PROQUEST">ocm99888300</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888300e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201898)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the House of Commons assembled in Parliament. The humble petition and remonstrance of Captain Francis Freeman of Marleborough, in the county of Wiltes, in the behalfe of himselfe and his poore distressed family.</title>
+                  <author>Freeman, Francis.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201898:1"/>
+            <head>
+               <hi>To the honourable the House of Commons assembled in Parliament.</hi> The humble Petition and Remonstrance of Captain Francis Freeman of Marleborough, in the County of Wiltes, in the behalfe of himselfe and his poore distressed Family.</head>
+            <opener>Humbly sheweth,</opener>
+            <p>THat whereas yout Petitioner hath been faithfull in the State service ever since the beginning of these troubles, as is well known to many Members of this honourable house, by meanes whereof, he hath suffered many great and grievous losses, to his utter undoing, unlesse your Honours have a compassio<g ref="char:EOLhyphen"/>nate and tender care towards him, in this his sad and deplorable condition, being much indebted, and a prisoner at this present time, in Scalding-Alley in the Poultry, <hi>London,</hi> where he expects every day to go to the Counter, and there is an Out-lary taken forth this last Terme against his Surety for ano<g ref="char:EOLhyphen"/>ther Debt, whose Creditor exacts the full interest for all this time, notwithstanding your Petitioner hath lost the principall, and all that he had, not ha<g ref="char:EOLhyphen"/>ving any thing left wherewithall to give satisfaction, nor any thing for himself &amp; family to subsist withall, your Petitioner having been a man of great trading, a Tanner by profession, and also dealt much in wooding, kept between six and sevenscore poor people at work in that Trade; and being plundered and spoyled almost of all that he had, when the Town was taken, and the rest spent and consumed since by the mercilesse cruelty and oppression of the Enemy: your Petitioner being in personal ac<g ref="char:EOLhyphen"/>tion, his wife was alwayes the more cruelly oppressed and burthened by quartering of Souldiers, what by the ill carriage of some Officers in the town, and the malig<g ref="char:EOLhyphen"/>nant spirits of some others, she commonly quartered double the number of any Magistrate in the Town: for when the King was there in person with his Army, shee quartered sixscore, and never a Magistrate in the Town quartered above 40 or 50. at the most, insomuch, that she hath made a very hard shift to keep her poor children from starving, and now at present is constrained to work as hard for her living, as any poor woman whatsoever, which is a most sad condition, consideri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g how she for<g ref="char:EOLhyphen"/>merly lived;</p>
+            <p>I shall further earnestly desire your Honours, that you will be pleased to read over these ensuing particulars.</p>
+            <p n="1">1. Your Petitioner commanded a Company at the fight at <hi>Marlborough</hi> when the town was taken, and by a wonderfull providence escaped from the hands of those cruell and bloud-thirsty Enemies, who (by the instigation of the Lady <hi>Seimor</hi>) threatned to hang him at his door, which did evidently appear by her answer to your Petitioners wife, when she came an humble Petitioner unto her in her husbands behalfe (supposing he had been a prisoner at that time) she told her, that he was a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ray<g ref="char:EOLhyphen"/>tor to the King, and she would see him hanged at his door, for an example to others; and that there was not such a Rogue in the Country. And it may further app<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are by the pursuit of their malice, for the Lord <hi>Seimor</hi> sent an Expresse to the Magistrates of the town, that if your Petitioner did at any time come thither, that they should take him prisoner, and bring him to <hi>Oxford</hi> dead or alive, or else they must expect no favour from his Majesty, or to this effect.</p>
+            <p n="2">2. Your Petitioner exercised two Companies under Sir <hi>Edward Hungerford,</hi> for which your Petitioner received but 12. l. and 3 s. so that there is somwhat remai<g ref="char:EOLhyphen"/>ning due to your Petitioner, as is well known to Sir <hi>Edward.</hi>
+            </p>
+            <p n="3">3. Sir <hi>William Waller</hi> hearing of your Petitioners abilities in the exercise of a Foot Company, took your Petitioner along with him in that service, and gave your Petitioner a Commission at <hi>Shepstow,</hi> bearing date the 9. day of <hi>April,</hi> 1643. as may appear by his Commission, for which time he never received but 3. l. yet continued in that service, till after the rout at Rundway-hill, as may appeare by an attestation under Sir <hi>William Wallers</hi> hand.</p>
+            <p n="4">4. Your Petitioner (by the approbation of a Councel of Warre) had another Commission under Sir <hi>William Waller,</hi> in the Regiment of Col. <hi>Alexand<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Popham,</hi> as may appear by his Commission, bearing date the 29. day of <hi>August,</hi> 1643. and after that disaster at <hi>Warminster,</hi> your Petitioner was sent down by his Colonel, Colonel <hi>Rogers,</hi> and some others, to <hi>Poole,</hi> having the charge of the Western Armes committed to his custody, and so to raise his Company in those parts. And your Petitioner for the advancement of the State service, sold his horse to buy provision to lay a Ship-board for himself and souldiers. He also bought a Chest of Granadoe shels, and fire arrowes, and other materials thereunto belonging, at his own proper charge. And your Petitioner listed Souldiers as soon as he came <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hithe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, supposing he should not stay long before he were in action: but yet he staid so long, as he had scarce either money or credit, but made bold with Col. <hi>Bingham</hi> to borrow some of him, which your Petitioner thinkes is not yet paid, and your Petitioner was fain to put his Souldiers into Col. <hi>Binghams</hi> Regiment for their victuals, whereof your Petitioner lost two of them against <hi>Abbotsbury</hi> house. And afterwards your Petitioner received Orders to imbarque the armes, and carry them to <hi>Lime,</hi> but by his Orders he was to put in at <hi>VVeymouth</hi> for a Convoy (because the Dunkirkes were very busie on that Coast) which was accordingly don<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: he landed the armes, and stayed 5 weekes and odde dayes for a Convoy, and then your Petitioner imbarqued the armes again, and carryed them to <hi>Lim<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> where he stayed 13 weeks, and could not have money from the Committee to beare his charges, but was constrained to borrnw 5.l. of Col. <hi>Celie,</hi> which your Petitioner thinkes is not yet paid neither, and when Col <hi>Welding</hi> came to the reliefe of <hi>Taunton,</hi> your Petitioner went thither, and delivered up his accompt to the Committee, but could get no money of them, notwithstanding your Petitioner was in extreame want, and had in that time the offer of a Majors place by two severall Collonels, but could not be quit of his charge, now all the mony your Petitio<g ref="char:EOLhyphen"/>ner received in all this service, was but 33.l. 1.s. 7.d.</p>
+            <p n="5">5. Your Petitioner raised a Company under the Command of Collonel <hi>Robert Blake,</hi> and was in <hi>Taunton</hi> the last siege, and afterwards marched with the Generall with a hundred men in his Company, into the West, to block up <hi>Exon,</hi> where he layd in Garison at <hi>Poultimore</hi> house, about fortnight, till such time he was comman<g ref="char:EOLhyphen"/>ded against <hi>Dunster</hi> Castle, where he continued till it was reduced, and since your Petitioner have wayted on the Committee, till the 20. of <hi>February</hi> last past: which were at that time (according to your honours order) disbanded; for which service, your Petitioner never received but <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. 3.l. and 10.s. whereof 6. weekes pay dis<g ref="char:EOLhyphen"/>banding money, (according to the new establishment) was part.</p>
+            <p n="6">6. Your Petitioner hath set forwards his Companie for the service of <hi>Ireland,</hi> whose Lieutenant and Ensigne goes with them, and were lately wi h Collonel <hi>Townsends</hi> Regiment, for which your Petitioner earnestly desires in their behalfe, that their Arreares for this last service, may be speedily payd for their better advance and further encouragement.</p>
+            <p n="7">7. Your Petitioner at the beginning of these troubles, was worth 1000.l. and upwards; but all his stock is plundered, spoyled, and spent, having at that time 200 l. stock, going in his Trade of Tanning, he had 14. or 15. Tun of wood, to the value of 300 l. or therabouts, he had 23. Akers of very good Corne, to the value of 70.l. or thereabouts, he had his House very well furnish<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with all manner of Housholdstuffe fit for a man of his calling, whereby he lived as happily (in respect of out<g ref="char:EOLhyphen"/>ward meanes, as most men in the Towne.</p>
+            <p n="8">8 Your Petitioner lost a debt of 53. pounds and 10. shillings, by one that was very well able to pay it, but that he was plundered of all that ever he had carried prisoner to <hi>Oxford,</hi> where he was bitterly used, and there starved to death.</p>
+            <p n="9">.9 Your Petitioner lost two very good Geldings, worth 20.l. and upwards so that there is nothing left for himselfe, his wife and seven Children to subsist withall, but onely his Land, which if it were sould, it would not pay his debts nothing neare, and of all the service your Petitioner hath been in, he never received any advance money: nor never plundered any man the worth of one penny, but alwayes laboured for the preservation of the Countrey.</p>
+            <p>May it therefore please your Honours seriously to consider the premises; and to take these things into your grave considerations: speedily to take some course that your Petitioner may have his Arreares paid, that his debts may be satisfied, and he not be enforced to spend the residue of his dayes in a loathsome prison, and his family utterly ruined: but that your honours will take some course for his enlargement, and protect him and his sureties, from all actions and suites that are, or may be commenced or brought against them, till such time your honours do make payment, which he hopes will not be long, and that according to your honours, Declarations, and ingagements at the begining of this present Parliament, your Pe<g ref="char:EOLhyphen"/>titioner may have reparations in some measure, answerable to his losses and sufferings, that he may have somthing to begin the world againe, for the maintenance of himselfe, and Family, that so the enemies of the state (who are your Petitioners enemies also) may have no longer cause to insult over them, and rejoyce at their poverty and misery, and your Petitioner doth humbly desire that his Lieutenant and Ensigne may be payd, their Ar<g ref="char:EOLhyphen"/>riers for this last service, for their better accommodation in the States Service fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Ireland,</hi> and if so be your Honours shall think of any imployment for your Petitioner, in the State Service wherein he may serve your Honours; he shall be ready to ingage himselfe and Fortunes.</p>
+            <closer>
+               <signed>And your Petitioner as in duty bound shall ever pray, &amp;c.</signed>
+            </closer>
+            <epigraph>
+               <q>Remember them that are in bonds, as bound with them, and them which suffer adversity, as being your selves also in the body, <bibl>Heb. 13. v. 3.</bibl>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
